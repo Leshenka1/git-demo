@@ -7,4 +7,10 @@ new cuplet
 ------------------
 
 adding sec cuplet
+<<<<<<< HEAD
 add some more
+=======
+add some more
+
+some change
+
